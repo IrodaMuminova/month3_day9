@@ -1,0 +1,30 @@
+button {
+    padding: 10px;
+    padding-right: 30px;
+    border-radius: 5px;
+    color: #fff;
+    border: 0;
+    display: none;
+    text-align-last: left;
+}
+
+#mavjud {
+    background-color: rgb(134, 235, 134);
+    width: 250px;
+}
+
+#mavjud-emas {
+    background-color: rgb(247, 139, 139);
+    width: 250px;
+}
+
+#search {
+    margin: 30px 0;
+    padding: 7px;
+}
+
+#btn {
+    display: inline;
+    padding: 7px 10px;
+    margin-left: 10px;
+}
